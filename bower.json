@@ -1,0 +1,24 @@
+{
+  "name": "bs3-practice-master",
+  "authors": [
+    "yunfanglin <yunfang413@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "raty": "^2.7.1",
+    "font-awesome": "fontawesome#^4.7.0",
+    "wow": "^1.1.2",
+    "jquery.easing": "^1.3.1"
+  }
+}
